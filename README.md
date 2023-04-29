@@ -6,7 +6,7 @@
 -->
 
 # Hello, GitHub Actions 
-# Hi there
+# Hi there 😄 -> test-workflow2
 
 _Create a GitHub Action and use it in a workflow._
 
